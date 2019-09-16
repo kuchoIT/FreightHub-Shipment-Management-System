@@ -1,0 +1,146 @@
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
+  font-size: 14px;
+}
+.App-logoo {
+  height: 5vmin;
+  pointer-events: none;
+  float: right;
+    }
+.App {
+  text-align: top;
+}
+table.blueTable {
+  border: 1px solid #1C6EA4;
+  background-color: #EEEEEE;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+*, *:before, *:after {
+	box-sizing:border-box;
+}
+
+.container {
+  background: #444444;
+  background: -webkit-linear-gradient(#92c4d8, #0d4774);
+  background:    -moz-linear-gradient(#5e6ca765, #0587eb);
+  background:         linear-gradient(#0095f8, #53ec79);
+	max-width: 2080px;
+	margin-right:auto;
+	margin-left:auto;
+  float: inline-start;
+  justify-content:stretch;
+  align-items:stretch;
+	min-height:100vh;
+}
+
+
+
+.App-logo {
+  height: 4vmin;
+  pointer-events: none;
+}
+
+table.greenTable {
+  background: #466368;
+  background: -webkit-linear-gradient(#92c4d8, #2c85c9);
+  background:    -moz-linear-gradient(#4daad465, #378bca);
+  background:         linear-gradient(#0095f8, #40bfe6);
+  font-family: Georgia, serif;
+  border: 6px solid rgb(52, 104, 214);
+  background-color: #D4EED1;
+  width: 100%;
+  text-align: center;
+  text-transform:uppercase;
+}
+table.greenTable td, table.greenTable th {
+  border: 2px solid #24943A;
+  padding: 3px 2px;
+}
+table.greenTable tbody td {
+  font-size: 13px;
+}
+table.greenTable thead {
+  text-transform:uppercase;
+  background: #24943A;
+  background: -moz-linear-gradient(top, #3e2ddb 0%, #3a9e4d 66%, #24943A 100%);
+  background: -webkit-linear-gradient(top, #5baf6b 0%, #3a9e4d 66%, #24943A 100%);
+  background: linear-gradient(to bottom, #5baf6b 0%, #3a9e4d 66%, #24943A 100%);
+  border-bottom: 0px solid #444444;
+}
+table.greenTable thead th {
+  font-size: 19px;
+  font-weight: bold;
+  color: #F0F0F0;
+  text-align: center;
+  border-left: 0px solid #24943A;
+}
+table.greenTable thead th:first-child {
+  border-left: none;
+}
+
+table.greenTable tfoot {
+  font-size: 13px;
+  font-weight: bold;
+  color: #F0F0F0;
+  background: #24943A;
+  background: -moz-linear-gradient(top, #5baf6b 0%, #3a9e4d 66%, #24943A 100%);
+  background: -webkit-linear-gradient(top, #5baf6b 0%, #3a9e4d 66%, #24943A 100%);
+  background: linear-gradient(to bottom, #5baf6b 0%, #3a9e4d 66%, #24943A 100%);
+  border-top: 1px solid #24943A;
+}
+table.greenTable tfoot td {
+  font-size: 13px;
+}
+table.greenTable tfoot .links {
+  text-align: right;
+}
+table.greenTable tfoot .links a{
+  display: inline-block;
+  background: #FFFFFF;
+  color: #24943A;
+  padding: 4px 8px;
+  border-radius: 5px;
+}
+
+.App-font {
+
+font-family: Tahoma, sans-serif;
+font-size: 16px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #ffffff;
+font-weight: bold;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 30vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center ;
+  justify-content: top;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
