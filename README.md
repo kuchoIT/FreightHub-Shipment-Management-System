@@ -10,7 +10,7 @@
 -   [Features](##Features)
 -   [Libraries used](##Libraries)
 -   [Demo](##Demo)
--   [How to Run](## How to Run)
+-   [How to Run](##HowtoRun)
 
    
 ## Features
