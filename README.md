@@ -30,27 +30,27 @@
 
 - START
 
-![START](https://github.com/SylvesterDavid7/shippingdetails/blob/master/Start.gif)
+![START](https://github.com/SylvesterDavid7/FreightHub-Shipment-Management-System/blob/master/Start.gif)
 
 - SEARCH
 
-![SEARCH](https://github.com/SylvesterDavid7/shippingdetails/blob/master/Search.gif)
+![SEARCH](https://github.com/SylvesterDavid7/FreightHub-Shipment-Management-System/blob/master/Search.gif)
 
 - SORT
 
-![SORT](https://github.com/SylvesterDavid7/shippingdetails/blob/master/Sort.gif)
+![SORT](https://github.com/SylvesterDavid7/FreightHub-Shipment-Management-System/blob/master/Sort.gif)
 
 - LIST
 
-![LIST](https://github.com/SylvesterDavid7/shippingdetails/blob/master/List.gif)
+![LIST](https://github.com/SylvesterDavid7/FreightHub-Shipment-Management-System/blob/master/List.gif)
 
 - Sub Component
 
-![SUB](https://github.com/SylvesterDavid7/shippingdetails/blob/master/Sub.gif)
+![SUB](https://github.com/SylvesterDavid7/FreightHub-Shipment-Management-System/blob/master/Sub.gif)
 
 - Editable
 
-![Edit](https://github.com/SylvesterDavid7/shippingdetails/blob/master/Edit.gif)
+![Edit](https://github.com/SylvesterDavid7/FreightHub-Shipment-Management-System/blob/master/Edit.gif)
 
 
 
